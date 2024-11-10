@@ -89,3 +89,5 @@
 
 
 <b>This README provides a comprehensive guide to understanding, using, and contributing to the Power BI project on the survey of different professions in different countries. </b>
+
+![Dashboard](https://github.com/user-attachments/assets/132fdff1-9bc1-496f-ba9d-4af3b632bcfe)
